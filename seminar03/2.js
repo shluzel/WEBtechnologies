@@ -4,4 +4,3 @@ function Gretting (){
     alert(message)
 };
 Gretting ();
-//console.log(message);
