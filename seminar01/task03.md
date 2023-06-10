@@ -3,4 +3,3 @@ _Внесите не менее 10 изменений на страницу лю
 ![Статья на wiki ДО](https://media.discordapp.net/attachments/1046877627237019678/1114472166503755846/image.png?width=1202&height=676)
 ## After:
 ![Статья на wiki ПОСЛЕ](https://media.discordapp.net/attachments/1046877627237019678/1114481700446158878/image.png?width=1202&height=676)
-
